@@ -1,0 +1,5065 @@
+{
+  "store": {
+    "name": "Lanchonete Colina",
+    "whatsapp": "5518000000000",
+    "address": "Rua das Acácias, 120 - Centro, Junqueirópolis/SP",
+    "instagram": "https://www.instagram.com/exemplo.demo"
+  },
+  "retrievedAt": "2026-10-27T17:05:21.516Z",
+  "source": "Cardápio público da Lanchonete Colina (Instadelivery)",
+  "groups": [
+    {
+      "id": "912369",
+      "name": "Burger Gourmet",
+      "slug": "burger-gourmet",
+      "items": [
+        {
+          "id": "5232792",
+          "name": "Smash",
+          "description": "Smash Burger Prime: Pão brioche, maionese defumada, barbecue, burger 75g, queijo prato. A explosão de sabores irresistível!",
+          "priceCents": 1800,
+          "image": "/images/products/5232792.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "448392",
+              "name": "Molho Extra?",
+              "min": 0,
+              "max": 15,
+              "options": [
+                {
+                  "id": "9688364",
+                  "name": "Barbecue Artesanal",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "4504854",
+                  "name": "Molho Verde 30g",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "5077181",
+                  "name": "Molho de Alho 30g",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688363",
+                  "name": "Maionese Defumada Artesanal",
+                  "priceCents": 600,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1183954",
+              "name": "Bora adicionar mais coisa?",
+              "min": 0,
+              "max": 5,
+              "options": [
+                {
+                  "id": "9688405",
+                  "name": "Burger Artesanal 150g",
+                  "priceCents": 900,
+                  "available": true
+                },
+                {
+                  "id": "9688406",
+                  "name": "Queijo",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "9688407",
+                  "name": "Cebola Caramelizada",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688408",
+                  "name": "Picles",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "9688409",
+                  "name": "Bacon em Fatia",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "9688410",
+                  "name": "Salada",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1184425",
+              "name": "Gostaria de Sachês?",
+              "min": 1,
+              "max": 2,
+              "options": [
+                {
+                  "id": "9692426",
+                  "name": "Não Quero Sachês!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692427",
+                  "name": "Quero Todos!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692428",
+                  "name": "Somente Catchup!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692429",
+                  "name": "Somente Maionese!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692430",
+                  "name": "Somente Mostarda!",
+                  "priceCents": 0,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5269386",
+          "name": "Double Smash",
+          "description": "Double Smash Burger Prime: Pão brioche, maionese defumada, barbecue, 02 burgers 75g, queijo prato. A explosão de sabores irresistível!",
+          "priceCents": 2400,
+          "image": "/images/products/5269386.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "448392",
+              "name": "Molho Extra?",
+              "min": 0,
+              "max": 15,
+              "options": [
+                {
+                  "id": "9688364",
+                  "name": "Barbecue Artesanal",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "4504854",
+                  "name": "Molho Verde 30g",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "5077181",
+                  "name": "Molho de Alho 30g",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688363",
+                  "name": "Maionese Defumada Artesanal",
+                  "priceCents": 600,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1183954",
+              "name": "Bora adicionar mais coisa?",
+              "min": 0,
+              "max": 5,
+              "options": [
+                {
+                  "id": "9688405",
+                  "name": "Burger Artesanal 150g",
+                  "priceCents": 900,
+                  "available": true
+                },
+                {
+                  "id": "9688406",
+                  "name": "Queijo",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "9688407",
+                  "name": "Cebola Caramelizada",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688408",
+                  "name": "Picles",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "9688409",
+                  "name": "Bacon em Fatia",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "9688410",
+                  "name": "Salada",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1184425",
+              "name": "Gostaria de Sachês?",
+              "min": 1,
+              "max": 2,
+              "options": [
+                {
+                  "id": "9692426",
+                  "name": "Não Quero Sachês!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692427",
+                  "name": "Quero Todos!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692428",
+                  "name": "Somente Catchup!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692429",
+                  "name": "Somente Maionese!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692430",
+                  "name": "Somente Mostarda!",
+                  "priceCents": 0,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5269393",
+          "name": "Classic",
+          "description": "Saboreie nosso Classic com suculento burger de 150g, queijo prato, cebola caramelizada e molho especial no pão brioche.",
+          "priceCents": 2600,
+          "image": "/images/products/5269393.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "448392",
+              "name": "Molho Extra?",
+              "min": 0,
+              "max": 15,
+              "options": [
+                {
+                  "id": "9688364",
+                  "name": "Barbecue Artesanal",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "4504854",
+                  "name": "Molho Verde 30g",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "5077181",
+                  "name": "Molho de Alho 30g",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688363",
+                  "name": "Maionese Defumada Artesanal",
+                  "priceCents": 600,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1183954",
+              "name": "Bora adicionar mais coisa?",
+              "min": 0,
+              "max": 5,
+              "options": [
+                {
+                  "id": "9688405",
+                  "name": "Burger Artesanal 150g",
+                  "priceCents": 900,
+                  "available": true
+                },
+                {
+                  "id": "9688406",
+                  "name": "Queijo",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "9688407",
+                  "name": "Cebola Caramelizada",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688408",
+                  "name": "Picles",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "9688409",
+                  "name": "Bacon em Fatia",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "9688410",
+                  "name": "Salada",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1184425",
+              "name": "Gostaria de Sachês?",
+              "min": 1,
+              "max": 2,
+              "options": [
+                {
+                  "id": "9692426",
+                  "name": "Não Quero Sachês!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692427",
+                  "name": "Quero Todos!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692428",
+                  "name": "Somente Catchup!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692429",
+                  "name": "Somente Maionese!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692430",
+                  "name": "Somente Mostarda!",
+                  "priceCents": 0,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5269401",
+          "name": "Cheedar Peak",
+          "description": "Delicioso Cheedar Peak: suculento burger 150g, queijo prato e cheddar cremoso, cebola caramelizada, pão brioche, maionese defumada.",
+          "priceCents": 2800,
+          "image": "/images/products/5269401.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "448392",
+              "name": "Molho Extra?",
+              "min": 0,
+              "max": 15,
+              "options": [
+                {
+                  "id": "9688364",
+                  "name": "Barbecue Artesanal",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "4504854",
+                  "name": "Molho Verde 30g",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "5077181",
+                  "name": "Molho de Alho 30g",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688363",
+                  "name": "Maionese Defumada Artesanal",
+                  "priceCents": 600,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1183954",
+              "name": "Bora adicionar mais coisa?",
+              "min": 0,
+              "max": 5,
+              "options": [
+                {
+                  "id": "9688405",
+                  "name": "Burger Artesanal 150g",
+                  "priceCents": 900,
+                  "available": true
+                },
+                {
+                  "id": "9688406",
+                  "name": "Queijo",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "9688407",
+                  "name": "Cebola Caramelizada",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688408",
+                  "name": "Picles",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "9688409",
+                  "name": "Bacon em Fatia",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "9688410",
+                  "name": "Salada",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1184425",
+              "name": "Gostaria de Sachês?",
+              "min": 1,
+              "max": 2,
+              "options": [
+                {
+                  "id": "9692426",
+                  "name": "Não Quero Sachês!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692427",
+                  "name": "Quero Todos!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692428",
+                  "name": "Somente Catchup!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692429",
+                  "name": "Somente Maionese!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692430",
+                  "name": "Somente Mostarda!",
+                  "priceCents": 0,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5269445",
+          "name": "Bacon Peak",
+          "description": "Delicioso Bacon Peak com pão brioche, maionese defumada, barbecue, burger artesanal 150g, queijo prato, cebola caramelizada e bacon crocante.",
+          "priceCents": 2800,
+          "image": "/images/products/5269445.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "448392",
+              "name": "Molho Extra?",
+              "min": 0,
+              "max": 15,
+              "options": [
+                {
+                  "id": "9688364",
+                  "name": "Barbecue Artesanal",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "4504854",
+                  "name": "Molho Verde 30g",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "5077181",
+                  "name": "Molho de Alho 30g",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688363",
+                  "name": "Maionese Defumada Artesanal",
+                  "priceCents": 600,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1183954",
+              "name": "Bora adicionar mais coisa?",
+              "min": 0,
+              "max": 5,
+              "options": [
+                {
+                  "id": "9688405",
+                  "name": "Burger Artesanal 150g",
+                  "priceCents": 900,
+                  "available": true
+                },
+                {
+                  "id": "9688406",
+                  "name": "Queijo",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "9688407",
+                  "name": "Cebola Caramelizada",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688408",
+                  "name": "Picles",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "9688409",
+                  "name": "Bacon em Fatia",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "9688410",
+                  "name": "Salada",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1184425",
+              "name": "Gostaria de Sachês?",
+              "min": 1,
+              "max": 2,
+              "options": [
+                {
+                  "id": "9692426",
+                  "name": "Não Quero Sachês!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692427",
+                  "name": "Quero Todos!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692428",
+                  "name": "Somente Catchup!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692429",
+                  "name": "Somente Maionese!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692430",
+                  "name": "Somente Mostarda!",
+                  "priceCents": 0,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5269480",
+          "name": "Big Salada",
+          "description": "Big Salada: Pão brioche, burger artesanal 150g, queijo prato, molho especial, maionese defumada, barbecue, tomate, alface e cebola roxa. Cheio de sabor!",
+          "priceCents": 3600,
+          "image": "/images/products/5269480.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "448392",
+              "name": "Molho Extra?",
+              "min": 0,
+              "max": 15,
+              "options": [
+                {
+                  "id": "9688364",
+                  "name": "Barbecue Artesanal",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "4504854",
+                  "name": "Molho Verde 30g",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "5077181",
+                  "name": "Molho de Alho 30g",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688363",
+                  "name": "Maionese Defumada Artesanal",
+                  "priceCents": 600,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1183954",
+              "name": "Bora adicionar mais coisa?",
+              "min": 0,
+              "max": 5,
+              "options": [
+                {
+                  "id": "9688405",
+                  "name": "Burger Artesanal 150g",
+                  "priceCents": 900,
+                  "available": true
+                },
+                {
+                  "id": "9688406",
+                  "name": "Queijo",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "9688407",
+                  "name": "Cebola Caramelizada",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688408",
+                  "name": "Picles",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "9688409",
+                  "name": "Bacon em Fatia",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "9688410",
+                  "name": "Salada",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1184425",
+              "name": "Gostaria de Sachês?",
+              "min": 1,
+              "max": 2,
+              "options": [
+                {
+                  "id": "9692426",
+                  "name": "Não Quero Sachês!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692427",
+                  "name": "Quero Todos!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692428",
+                  "name": "Somente Catchup!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692429",
+                  "name": "Somente Maionese!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692430",
+                  "name": "Somente Mostarda!",
+                  "priceCents": 0,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5269485",
+          "name": "Big Colina",
+          "description": "Delicioso Big Colina: suculento burger artesanal de 150g com queijo prato, Pão brioche, molho especial, Maionese defumada, Barbecue, bacon, picles, cebola roxa, tomate e alface.",
+          "priceCents": 3800,
+          "image": "/images/products/5269485.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "448392",
+              "name": "Molho Extra?",
+              "min": 0,
+              "max": 15,
+              "options": [
+                {
+                  "id": "9688364",
+                  "name": "Barbecue Artesanal",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "4504854",
+                  "name": "Molho Verde 30g",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "5077181",
+                  "name": "Molho de Alho 30g",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688363",
+                  "name": "Maionese Defumada Artesanal",
+                  "priceCents": 600,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1183954",
+              "name": "Bora adicionar mais coisa?",
+              "min": 0,
+              "max": 5,
+              "options": [
+                {
+                  "id": "9688405",
+                  "name": "Burger Artesanal 150g",
+                  "priceCents": 900,
+                  "available": true
+                },
+                {
+                  "id": "9688406",
+                  "name": "Queijo",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "9688407",
+                  "name": "Cebola Caramelizada",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688408",
+                  "name": "Picles",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "9688409",
+                  "name": "Bacon em Fatia",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "9688410",
+                  "name": "Salada",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1184425",
+              "name": "Gostaria de Sachês?",
+              "min": 1,
+              "max": 2,
+              "options": [
+                {
+                  "id": "9692426",
+                  "name": "Não Quero Sachês!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692427",
+                  "name": "Quero Todos!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692428",
+                  "name": "Somente Catchup!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692429",
+                  "name": "Somente Maionese!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692430",
+                  "name": "Somente Mostarda!",
+                  "priceCents": 0,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5269493",
+          "name": "Supremo",
+          "description": "Delicioso Supremo com brioche, maionese defumada, barbecue, 02 burgers 150g, queijo prato, cheddar, cebola caramelizada e bacon.",
+          "priceCents": 4400,
+          "image": "/images/products/5269493.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "448392",
+              "name": "Molho Extra?",
+              "min": 0,
+              "max": 15,
+              "options": [
+                {
+                  "id": "9688364",
+                  "name": "Barbecue Artesanal",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "4504854",
+                  "name": "Molho Verde 30g",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "5077181",
+                  "name": "Molho de Alho 30g",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688363",
+                  "name": "Maionese Defumada Artesanal",
+                  "priceCents": 600,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1183954",
+              "name": "Bora adicionar mais coisa?",
+              "min": 0,
+              "max": 5,
+              "options": [
+                {
+                  "id": "9688405",
+                  "name": "Burger Artesanal 150g",
+                  "priceCents": 900,
+                  "available": true
+                },
+                {
+                  "id": "9688406",
+                  "name": "Queijo",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "9688407",
+                  "name": "Cebola Caramelizada",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688408",
+                  "name": "Picles",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "9688409",
+                  "name": "Bacon em Fatia",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "9688410",
+                  "name": "Salada",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1184425",
+              "name": "Gostaria de Sachês?",
+              "min": 1,
+              "max": 2,
+              "options": [
+                {
+                  "id": "9692426",
+                  "name": "Não Quero Sachês!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692427",
+                  "name": "Quero Todos!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692428",
+                  "name": "Somente Catchup!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692429",
+                  "name": "Somente Maionese!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692430",
+                  "name": "Somente Mostarda!",
+                  "priceCents": 0,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "154203",
+      "name": "Hot Dogs",
+      "slug": "hot-dogs",
+      "items": [
+        {
+          "id": "1663681",
+          "name": "Hot Dog Simples",
+          "description": "Delicioso Hot Dog com 01 salsicha, alface e tomate frescos, acompanhado de catchup, mostarda, maionese e batata palha crocante. Acompanha 01 sachê de Molho Verde",
+          "priceCents": 1700,
+          "image": "/images/products/1663681.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "652470",
+              "name": "Tipo de Pão (Hot Dog)",
+              "min": 0,
+              "max": 1,
+              "options": [
+                {
+                  "id": "5586051",
+                  "name": "Tradicional",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "5586050",
+                  "name": "Pão Frances",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "167471",
+              "name": "Capricha nos Adicionais",
+              "min": 0,
+              "max": 10,
+              "options": [
+                {
+                  "id": "1891655",
+                  "name": "Queijo",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1891654",
+                  "name": "Bacon",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898540",
+                  "name": "Hamburger",
+                  "priceCents": 700,
+                  "available": true
+                },
+                {
+                  "id": "1891657",
+                  "name": "Milho",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891658",
+                  "name": "Ervilha",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891660",
+                  "name": "Ovo",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891661",
+                  "name": "Cheddar",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "3197894",
+                  "name": "Catupiry",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898619",
+                  "name": "Purê de Batata",
+                  "priceCents": 500,
+                  "available": true
+                },
+                {
+                  "id": "1891662",
+                  "name": "Calabresa",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1891659",
+                  "name": "Frango",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898682",
+                  "name": "Batata Palha",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891656",
+                  "name": "Salsicha",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "448392",
+              "name": "Molho Extra?",
+              "min": 0,
+              "max": 15,
+              "options": [
+                {
+                  "id": "9688364",
+                  "name": "Barbecue Artesanal",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "4504854",
+                  "name": "Molho Verde 30g",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "5077181",
+                  "name": "Molho de Alho 30g",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688363",
+                  "name": "Maionese Defumada Artesanal",
+                  "priceCents": 600,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1184425",
+              "name": "Gostaria de Sachês?",
+              "min": 1,
+              "max": 2,
+              "options": [
+                {
+                  "id": "9692426",
+                  "name": "Não Quero Sachês!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692427",
+                  "name": "Quero Todos!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692428",
+                  "name": "Somente Catchup!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692429",
+                  "name": "Somente Maionese!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692430",
+                  "name": "Somente Mostarda!",
+                  "priceCents": 0,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1663686",
+          "name": "Hot Dog  Duplo",
+          "description": "Delicioso Hot Dog com 02 salsichas, alface e tomate frescos, acompanhado de catchup, mostarda, maionese e batata palha crocante. Acompanha 01 sachê de Molho Verde",
+          "priceCents": 1800,
+          "image": "/images/products/1663686.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "652470",
+              "name": "Tipo de Pão (Hot Dog)",
+              "min": 0,
+              "max": 1,
+              "options": [
+                {
+                  "id": "5586051",
+                  "name": "Tradicional",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "5586050",
+                  "name": "Pão Frances",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "167471",
+              "name": "Capricha nos Adicionais",
+              "min": 0,
+              "max": 10,
+              "options": [
+                {
+                  "id": "1891655",
+                  "name": "Queijo",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1891654",
+                  "name": "Bacon",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898540",
+                  "name": "Hamburger",
+                  "priceCents": 700,
+                  "available": true
+                },
+                {
+                  "id": "1891657",
+                  "name": "Milho",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891658",
+                  "name": "Ervilha",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891660",
+                  "name": "Ovo",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891661",
+                  "name": "Cheddar",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "3197894",
+                  "name": "Catupiry",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898619",
+                  "name": "Purê de Batata",
+                  "priceCents": 500,
+                  "available": true
+                },
+                {
+                  "id": "1891662",
+                  "name": "Calabresa",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1891659",
+                  "name": "Frango",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898682",
+                  "name": "Batata Palha",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891656",
+                  "name": "Salsicha",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "448392",
+              "name": "Molho Extra?",
+              "min": 0,
+              "max": 15,
+              "options": [
+                {
+                  "id": "9688364",
+                  "name": "Barbecue Artesanal",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "4504854",
+                  "name": "Molho Verde 30g",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "5077181",
+                  "name": "Molho de Alho 30g",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688363",
+                  "name": "Maionese Defumada Artesanal",
+                  "priceCents": 600,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1184425",
+              "name": "Gostaria de Sachês?",
+              "min": 1,
+              "max": 2,
+              "options": [
+                {
+                  "id": "9692426",
+                  "name": "Não Quero Sachês!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692427",
+                  "name": "Quero Todos!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692428",
+                  "name": "Somente Catchup!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692429",
+                  "name": "Somente Maionese!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692430",
+                  "name": "Somente Mostarda!",
+                  "priceCents": 0,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1663690",
+          "name": "Queijudinho",
+          "description": "Pão de hot-dog, 2 salsichas, queijo, catchup, maionese, mostarda, batata palha, crostinha de queijo por fora",
+          "priceCents": 2900,
+          "image": "/images/products/1663690.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "652470",
+              "name": "Tipo de Pão (Hot Dog)",
+              "min": 0,
+              "max": 1,
+              "options": [
+                {
+                  "id": "5586051",
+                  "name": "Tradicional",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "5586050",
+                  "name": "Pão Frances",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "167471",
+              "name": "Capricha nos Adicionais",
+              "min": 0,
+              "max": 10,
+              "options": [
+                {
+                  "id": "1891655",
+                  "name": "Queijo",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1891654",
+                  "name": "Bacon",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898540",
+                  "name": "Hamburger",
+                  "priceCents": 700,
+                  "available": true
+                },
+                {
+                  "id": "1891657",
+                  "name": "Milho",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891658",
+                  "name": "Ervilha",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891660",
+                  "name": "Ovo",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891661",
+                  "name": "Cheddar",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "3197894",
+                  "name": "Catupiry",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898619",
+                  "name": "Purê de Batata",
+                  "priceCents": 500,
+                  "available": true
+                },
+                {
+                  "id": "1891662",
+                  "name": "Calabresa",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1891659",
+                  "name": "Frango",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898682",
+                  "name": "Batata Palha",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891656",
+                  "name": "Salsicha",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "448392",
+              "name": "Molho Extra?",
+              "min": 0,
+              "max": 15,
+              "options": [
+                {
+                  "id": "9688364",
+                  "name": "Barbecue Artesanal",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "4504854",
+                  "name": "Molho Verde 30g",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "5077181",
+                  "name": "Molho de Alho 30g",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688363",
+                  "name": "Maionese Defumada Artesanal",
+                  "priceCents": 600,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1184425",
+              "name": "Gostaria de Sachês?",
+              "min": 1,
+              "max": 2,
+              "options": [
+                {
+                  "id": "9692426",
+                  "name": "Não Quero Sachês!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692427",
+                  "name": "Quero Todos!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692428",
+                  "name": "Somente Catchup!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692429",
+                  "name": "Somente Maionese!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692430",
+                  "name": "Somente Mostarda!",
+                  "priceCents": 0,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1663711",
+          "name": "Dogão Completo",
+          "description": "Pão de hot-dog, 2 salsichas, queijo, purê de batata, catchup, maionese, mostarda, alface, tomate, milho, ervilha, batata palha",
+          "priceCents": 3200,
+          "image": "/images/products/1663711.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "652470",
+              "name": "Tipo de Pão (Hot Dog)",
+              "min": 0,
+              "max": 1,
+              "options": [
+                {
+                  "id": "5586051",
+                  "name": "Tradicional",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "5586050",
+                  "name": "Pão Frances",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "167471",
+              "name": "Capricha nos Adicionais",
+              "min": 0,
+              "max": 10,
+              "options": [
+                {
+                  "id": "1891655",
+                  "name": "Queijo",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1891654",
+                  "name": "Bacon",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898540",
+                  "name": "Hamburger",
+                  "priceCents": 700,
+                  "available": true
+                },
+                {
+                  "id": "1891657",
+                  "name": "Milho",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891658",
+                  "name": "Ervilha",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891660",
+                  "name": "Ovo",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891661",
+                  "name": "Cheddar",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "3197894",
+                  "name": "Catupiry",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898619",
+                  "name": "Purê de Batata",
+                  "priceCents": 500,
+                  "available": true
+                },
+                {
+                  "id": "1891662",
+                  "name": "Calabresa",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1891659",
+                  "name": "Frango",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898682",
+                  "name": "Batata Palha",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891656",
+                  "name": "Salsicha",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "448392",
+              "name": "Molho Extra?",
+              "min": 0,
+              "max": 15,
+              "options": [
+                {
+                  "id": "9688364",
+                  "name": "Barbecue Artesanal",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "4504854",
+                  "name": "Molho Verde 30g",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "5077181",
+                  "name": "Molho de Alho 30g",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688363",
+                  "name": "Maionese Defumada Artesanal",
+                  "priceCents": 600,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1184425",
+              "name": "Gostaria de Sachês?",
+              "min": 1,
+              "max": 2,
+              "options": [
+                {
+                  "id": "9692426",
+                  "name": "Não Quero Sachês!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692427",
+                  "name": "Quero Todos!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692428",
+                  "name": "Somente Catchup!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692429",
+                  "name": "Somente Maionese!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692430",
+                  "name": "Somente Mostarda!",
+                  "priceCents": 0,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1663713",
+          "name": "Dog Especial",
+          "description": "Pão de hamburguer, 1 hambúrguer, 2 salsichas, molho de alho especial, catupiry, catchup, maionese, mostarda, alface, tomate, batata palha",
+          "priceCents": 3400,
+          "image": "/images/products/1663713.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "167471",
+              "name": "Capricha nos Adicionais",
+              "min": 0,
+              "max": 10,
+              "options": [
+                {
+                  "id": "1891655",
+                  "name": "Queijo",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1891654",
+                  "name": "Bacon",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898540",
+                  "name": "Hamburger",
+                  "priceCents": 700,
+                  "available": true
+                },
+                {
+                  "id": "1891657",
+                  "name": "Milho",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891658",
+                  "name": "Ervilha",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891660",
+                  "name": "Ovo",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891661",
+                  "name": "Cheddar",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "3197894",
+                  "name": "Catupiry",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898619",
+                  "name": "Purê de Batata",
+                  "priceCents": 500,
+                  "available": true
+                },
+                {
+                  "id": "1891662",
+                  "name": "Calabresa",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1891659",
+                  "name": "Frango",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898682",
+                  "name": "Batata Palha",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891656",
+                  "name": "Salsicha",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "448392",
+              "name": "Molho Extra?",
+              "min": 0,
+              "max": 15,
+              "options": [
+                {
+                  "id": "9688364",
+                  "name": "Barbecue Artesanal",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "4504854",
+                  "name": "Molho Verde 30g",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "5077181",
+                  "name": "Molho de Alho 30g",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688363",
+                  "name": "Maionese Defumada Artesanal",
+                  "priceCents": 600,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1184425",
+              "name": "Gostaria de Sachês?",
+              "min": 1,
+              "max": 2,
+              "options": [
+                {
+                  "id": "9692426",
+                  "name": "Não Quero Sachês!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692427",
+                  "name": "Quero Todos!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692428",
+                  "name": "Somente Catchup!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692429",
+                  "name": "Somente Maionese!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692430",
+                  "name": "Somente Mostarda!",
+                  "priceCents": 0,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "154308",
+      "name": "Xis",
+      "slug": "xis",
+      "items": [
+        {
+          "id": "917640",
+          "name": "X-Burger",
+          "description": "Pão de Hambúrguer, 01 Hambúrguer de carne 100g, Tomate, Presunto, Queijo",
+          "priceCents": 2200,
+          "image": "/images/products/917640.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "652472",
+              "name": "Tipo de Pão (XIS)",
+              "min": 0,
+              "max": 1,
+              "options": [
+                {
+                  "id": "5586054",
+                  "name": "Tradicional",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "5586055",
+                  "name": "Pão Frances",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "167471",
+              "name": "Capricha nos Adicionais",
+              "min": 0,
+              "max": 10,
+              "options": [
+                {
+                  "id": "1891655",
+                  "name": "Queijo",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1891654",
+                  "name": "Bacon",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898540",
+                  "name": "Hamburger",
+                  "priceCents": 700,
+                  "available": true
+                },
+                {
+                  "id": "1891657",
+                  "name": "Milho",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891658",
+                  "name": "Ervilha",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891660",
+                  "name": "Ovo",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891661",
+                  "name": "Cheddar",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "3197894",
+                  "name": "Catupiry",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898619",
+                  "name": "Purê de Batata",
+                  "priceCents": 500,
+                  "available": true
+                },
+                {
+                  "id": "1891662",
+                  "name": "Calabresa",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1891659",
+                  "name": "Frango",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898682",
+                  "name": "Batata Palha",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891656",
+                  "name": "Salsicha",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "448392",
+              "name": "Molho Extra?",
+              "min": 0,
+              "max": 15,
+              "options": [
+                {
+                  "id": "9688364",
+                  "name": "Barbecue Artesanal",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "4504854",
+                  "name": "Molho Verde 30g",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "5077181",
+                  "name": "Molho de Alho 30g",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688363",
+                  "name": "Maionese Defumada Artesanal",
+                  "priceCents": 600,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1184425",
+              "name": "Gostaria de Sachês?",
+              "min": 1,
+              "max": 2,
+              "options": [
+                {
+                  "id": "9692426",
+                  "name": "Não Quero Sachês!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692427",
+                  "name": "Quero Todos!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692428",
+                  "name": "Somente Catchup!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692429",
+                  "name": "Somente Maionese!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692430",
+                  "name": "Somente Mostarda!",
+                  "priceCents": 0,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "917634",
+          "name": "X-Salada",
+          "description": "Pão de Hamburger, 01 Hamburguer de carne, Alface, Tomate, Milho, Presunto, Queijo",
+          "priceCents": 2400,
+          "image": "/images/products/917634.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "652472",
+              "name": "Tipo de Pão (XIS)",
+              "min": 0,
+              "max": 1,
+              "options": [
+                {
+                  "id": "5586054",
+                  "name": "Tradicional",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "5586055",
+                  "name": "Pão Frances",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "167471",
+              "name": "Capricha nos Adicionais",
+              "min": 0,
+              "max": 10,
+              "options": [
+                {
+                  "id": "1891655",
+                  "name": "Queijo",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1891654",
+                  "name": "Bacon",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898540",
+                  "name": "Hamburger",
+                  "priceCents": 700,
+                  "available": true
+                },
+                {
+                  "id": "1891657",
+                  "name": "Milho",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891658",
+                  "name": "Ervilha",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891660",
+                  "name": "Ovo",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891661",
+                  "name": "Cheddar",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "3197894",
+                  "name": "Catupiry",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898619",
+                  "name": "Purê de Batata",
+                  "priceCents": 500,
+                  "available": true
+                },
+                {
+                  "id": "1891662",
+                  "name": "Calabresa",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1891659",
+                  "name": "Frango",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898682",
+                  "name": "Batata Palha",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891656",
+                  "name": "Salsicha",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "448392",
+              "name": "Molho Extra?",
+              "min": 0,
+              "max": 15,
+              "options": [
+                {
+                  "id": "9688364",
+                  "name": "Barbecue Artesanal",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "4504854",
+                  "name": "Molho Verde 30g",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "5077181",
+                  "name": "Molho de Alho 30g",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688363",
+                  "name": "Maionese Defumada Artesanal",
+                  "priceCents": 600,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1184425",
+              "name": "Gostaria de Sachês?",
+              "min": 1,
+              "max": 2,
+              "options": [
+                {
+                  "id": "9692426",
+                  "name": "Não Quero Sachês!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692427",
+                  "name": "Quero Todos!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692428",
+                  "name": "Somente Catchup!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692429",
+                  "name": "Somente Maionese!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692430",
+                  "name": "Somente Mostarda!",
+                  "priceCents": 0,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "923168",
+          "name": "X-Burgão",
+          "description": "Pão de Hamburger, 03 Hamburguer de carne, Tomate, Presunto, Queijo",
+          "priceCents": 3600,
+          "image": "/images/products/923168.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "652472",
+              "name": "Tipo de Pão (XIS)",
+              "min": 0,
+              "max": 1,
+              "options": [
+                {
+                  "id": "5586054",
+                  "name": "Tradicional",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "5586055",
+                  "name": "Pão Frances",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "167471",
+              "name": "Capricha nos Adicionais",
+              "min": 0,
+              "max": 10,
+              "options": [
+                {
+                  "id": "1891655",
+                  "name": "Queijo",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1891654",
+                  "name": "Bacon",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898540",
+                  "name": "Hamburger",
+                  "priceCents": 700,
+                  "available": true
+                },
+                {
+                  "id": "1891657",
+                  "name": "Milho",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891658",
+                  "name": "Ervilha",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891660",
+                  "name": "Ovo",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891661",
+                  "name": "Cheddar",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "3197894",
+                  "name": "Catupiry",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898619",
+                  "name": "Purê de Batata",
+                  "priceCents": 500,
+                  "available": true
+                },
+                {
+                  "id": "1891662",
+                  "name": "Calabresa",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1891659",
+                  "name": "Frango",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898682",
+                  "name": "Batata Palha",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891656",
+                  "name": "Salsicha",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "448392",
+              "name": "Molho Extra?",
+              "min": 0,
+              "max": 15,
+              "options": [
+                {
+                  "id": "9688364",
+                  "name": "Barbecue Artesanal",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "4504854",
+                  "name": "Molho Verde 30g",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "5077181",
+                  "name": "Molho de Alho 30g",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688363",
+                  "name": "Maionese Defumada Artesanal",
+                  "priceCents": 600,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1184425",
+              "name": "Gostaria de Sachês?",
+              "min": 1,
+              "max": 2,
+              "options": [
+                {
+                  "id": "9692426",
+                  "name": "Não Quero Sachês!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692427",
+                  "name": "Quero Todos!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692428",
+                  "name": "Somente Catchup!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692429",
+                  "name": "Somente Maionese!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692430",
+                  "name": "Somente Mostarda!",
+                  "priceCents": 0,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5234088",
+          "name": "X-Burger Especial",
+          "description": "1 hambúrguer 100g , tomate, maionese, queijo, presunto, molho de alho especial, catupiry, batata palha",
+          "priceCents": 2900,
+          "image": "/images/products/917640.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "167471",
+              "name": "Capricha nos Adicionais",
+              "min": 0,
+              "max": 10,
+              "options": [
+                {
+                  "id": "1891655",
+                  "name": "Queijo",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1891654",
+                  "name": "Bacon",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898540",
+                  "name": "Hamburger",
+                  "priceCents": 700,
+                  "available": true
+                },
+                {
+                  "id": "1891657",
+                  "name": "Milho",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891658",
+                  "name": "Ervilha",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891660",
+                  "name": "Ovo",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891661",
+                  "name": "Cheddar",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "3197894",
+                  "name": "Catupiry",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898619",
+                  "name": "Purê de Batata",
+                  "priceCents": 500,
+                  "available": true
+                },
+                {
+                  "id": "1891662",
+                  "name": "Calabresa",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1891659",
+                  "name": "Frango",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898682",
+                  "name": "Batata Palha",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891656",
+                  "name": "Salsicha",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "448392",
+              "name": "Molho Extra?",
+              "min": 0,
+              "max": 15,
+              "options": [
+                {
+                  "id": "9688364",
+                  "name": "Barbecue Artesanal",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "4504854",
+                  "name": "Molho Verde 30g",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "5077181",
+                  "name": "Molho de Alho 30g",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688363",
+                  "name": "Maionese Defumada Artesanal",
+                  "priceCents": 600,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1184425",
+              "name": "Gostaria de Sachês?",
+              "min": 1,
+              "max": 2,
+              "options": [
+                {
+                  "id": "9692426",
+                  "name": "Não Quero Sachês!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692427",
+                  "name": "Quero Todos!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692428",
+                  "name": "Somente Catchup!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692429",
+                  "name": "Somente Maionese!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692430",
+                  "name": "Somente Mostarda!",
+                  "priceCents": 0,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5234103",
+          "name": "X-Salada Especial",
+          "description": "1 hambúrguer 100g , tomate, alface, milho, maionese, queijo, presunto, molho de alho especial, catupiry, batata palha",
+          "priceCents": 3100,
+          "image": "/images/products/5234103.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "167471",
+              "name": "Capricha nos Adicionais",
+              "min": 0,
+              "max": 10,
+              "options": [
+                {
+                  "id": "1891655",
+                  "name": "Queijo",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1891654",
+                  "name": "Bacon",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898540",
+                  "name": "Hamburger",
+                  "priceCents": 700,
+                  "available": true
+                },
+                {
+                  "id": "1891657",
+                  "name": "Milho",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891658",
+                  "name": "Ervilha",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891660",
+                  "name": "Ovo",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891661",
+                  "name": "Cheddar",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "3197894",
+                  "name": "Catupiry",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898619",
+                  "name": "Purê de Batata",
+                  "priceCents": 500,
+                  "available": true
+                },
+                {
+                  "id": "1891662",
+                  "name": "Calabresa",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1891659",
+                  "name": "Frango",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898682",
+                  "name": "Batata Palha",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891656",
+                  "name": "Salsicha",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "448392",
+              "name": "Molho Extra?",
+              "min": 0,
+              "max": 15,
+              "options": [
+                {
+                  "id": "9688364",
+                  "name": "Barbecue Artesanal",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "4504854",
+                  "name": "Molho Verde 30g",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "5077181",
+                  "name": "Molho de Alho 30g",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688363",
+                  "name": "Maionese Defumada Artesanal",
+                  "priceCents": 600,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1184425",
+              "name": "Gostaria de Sachês?",
+              "min": 1,
+              "max": 2,
+              "options": [
+                {
+                  "id": "9692426",
+                  "name": "Não Quero Sachês!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692427",
+                  "name": "Quero Todos!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692428",
+                  "name": "Somente Catchup!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692429",
+                  "name": "Somente Maionese!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692430",
+                  "name": "Somente Mostarda!",
+                  "priceCents": 0,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "923170",
+          "name": "X-Colina",
+          "description": "2 hambúrguers 150g , 2 salsichas, ovo, bacon, frango, calabresa, tomate, presunto, queijo, batata palha, molho de alho especial, catupiry",
+          "priceCents": 4400,
+          "image": "/images/products/923170.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "167471",
+              "name": "Capricha nos Adicionais",
+              "min": 0,
+              "max": 10,
+              "options": [
+                {
+                  "id": "1891655",
+                  "name": "Queijo",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1891654",
+                  "name": "Bacon",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898540",
+                  "name": "Hamburger",
+                  "priceCents": 700,
+                  "available": true
+                },
+                {
+                  "id": "1891657",
+                  "name": "Milho",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891658",
+                  "name": "Ervilha",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891660",
+                  "name": "Ovo",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891661",
+                  "name": "Cheddar",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "3197894",
+                  "name": "Catupiry",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898619",
+                  "name": "Purê de Batata",
+                  "priceCents": 500,
+                  "available": true
+                },
+                {
+                  "id": "1891662",
+                  "name": "Calabresa",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1891659",
+                  "name": "Frango",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898682",
+                  "name": "Batata Palha",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891656",
+                  "name": "Salsicha",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "448392",
+              "name": "Molho Extra?",
+              "min": 0,
+              "max": 15,
+              "options": [
+                {
+                  "id": "9688364",
+                  "name": "Barbecue Artesanal",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "4504854",
+                  "name": "Molho Verde 30g",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "5077181",
+                  "name": "Molho de Alho 30g",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688363",
+                  "name": "Maionese Defumada Artesanal",
+                  "priceCents": 600,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1184425",
+              "name": "Gostaria de Sachês?",
+              "min": 1,
+              "max": 2,
+              "options": [
+                {
+                  "id": "9692426",
+                  "name": "Não Quero Sachês!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692427",
+                  "name": "Quero Todos!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692428",
+                  "name": "Somente Catchup!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692429",
+                  "name": "Somente Maionese!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692430",
+                  "name": "Somente Mostarda!",
+                  "priceCents": 0,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "297399",
+      "name": "Mistos",
+      "slug": "mistos",
+      "items": [
+        {
+          "id": "1787847",
+          "name": "Misto Quente",
+          "description": "Presunto, Queijo, Maionese, Requeijão Cremoso",
+          "priceCents": 2300,
+          "image": "/images/products/1787847.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "652472",
+              "name": "Tipo de Pão (XIS)",
+              "min": 0,
+              "max": 1,
+              "options": [
+                {
+                  "id": "5586054",
+                  "name": "Tradicional",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "5586055",
+                  "name": "Pão Frances",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "167471",
+              "name": "Capricha nos Adicionais",
+              "min": 0,
+              "max": 10,
+              "options": [
+                {
+                  "id": "1891655",
+                  "name": "Queijo",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1891654",
+                  "name": "Bacon",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898540",
+                  "name": "Hamburger",
+                  "priceCents": 700,
+                  "available": true
+                },
+                {
+                  "id": "1891657",
+                  "name": "Milho",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891658",
+                  "name": "Ervilha",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891660",
+                  "name": "Ovo",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891661",
+                  "name": "Cheddar",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "3197894",
+                  "name": "Catupiry",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898619",
+                  "name": "Purê de Batata",
+                  "priceCents": 500,
+                  "available": true
+                },
+                {
+                  "id": "1891662",
+                  "name": "Calabresa",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1891659",
+                  "name": "Frango",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898682",
+                  "name": "Batata Palha",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891656",
+                  "name": "Salsicha",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "448392",
+              "name": "Molho Extra?",
+              "min": 0,
+              "max": 15,
+              "options": [
+                {
+                  "id": "9688364",
+                  "name": "Barbecue Artesanal",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "4504854",
+                  "name": "Molho Verde 30g",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "5077181",
+                  "name": "Molho de Alho 30g",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688363",
+                  "name": "Maionese Defumada Artesanal",
+                  "priceCents": 600,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1184425",
+              "name": "Gostaria de Sachês?",
+              "min": 1,
+              "max": 2,
+              "options": [
+                {
+                  "id": "9692426",
+                  "name": "Não Quero Sachês!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692427",
+                  "name": "Quero Todos!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692428",
+                  "name": "Somente Catchup!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692429",
+                  "name": "Somente Maionese!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692430",
+                  "name": "Somente Mostarda!",
+                  "priceCents": 0,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1787850",
+          "name": "Bauru",
+          "description": "Presunto, Queijo, Tomate, Maionese, Requeijão Cremoso",
+          "priceCents": 2400,
+          "image": "/images/products/1787850.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "652472",
+              "name": "Tipo de Pão (XIS)",
+              "min": 0,
+              "max": 1,
+              "options": [
+                {
+                  "id": "5586054",
+                  "name": "Tradicional",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "5586055",
+                  "name": "Pão Frances",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "167471",
+              "name": "Capricha nos Adicionais",
+              "min": 0,
+              "max": 10,
+              "options": [
+                {
+                  "id": "1891655",
+                  "name": "Queijo",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1891654",
+                  "name": "Bacon",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898540",
+                  "name": "Hamburger",
+                  "priceCents": 700,
+                  "available": true
+                },
+                {
+                  "id": "1891657",
+                  "name": "Milho",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891658",
+                  "name": "Ervilha",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891660",
+                  "name": "Ovo",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891661",
+                  "name": "Cheddar",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "3197894",
+                  "name": "Catupiry",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898619",
+                  "name": "Purê de Batata",
+                  "priceCents": 500,
+                  "available": true
+                },
+                {
+                  "id": "1891662",
+                  "name": "Calabresa",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1891659",
+                  "name": "Frango",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898682",
+                  "name": "Batata Palha",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891656",
+                  "name": "Salsicha",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "448392",
+              "name": "Molho Extra?",
+              "min": 0,
+              "max": 15,
+              "options": [
+                {
+                  "id": "9688364",
+                  "name": "Barbecue Artesanal",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "4504854",
+                  "name": "Molho Verde 30g",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "5077181",
+                  "name": "Molho de Alho 30g",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688363",
+                  "name": "Maionese Defumada Artesanal",
+                  "priceCents": 600,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1184425",
+              "name": "Gostaria de Sachês?",
+              "min": 1,
+              "max": 2,
+              "options": [
+                {
+                  "id": "9692426",
+                  "name": "Não Quero Sachês!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692427",
+                  "name": "Quero Todos!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692428",
+                  "name": "Somente Catchup!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692429",
+                  "name": "Somente Maionese!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692430",
+                  "name": "Somente Mostarda!",
+                  "priceCents": 0,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1787855",
+          "name": "X-Joi",
+          "description": "Queijo, Purê de Batata, Cheddar, Requeijão Cremoso, Batata Palha",
+          "priceCents": 2700,
+          "image": "/images/products/1787855.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "652472",
+              "name": "Tipo de Pão (XIS)",
+              "min": 0,
+              "max": 1,
+              "options": [
+                {
+                  "id": "5586054",
+                  "name": "Tradicional",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "5586055",
+                  "name": "Pão Frances",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "167471",
+              "name": "Capricha nos Adicionais",
+              "min": 0,
+              "max": 10,
+              "options": [
+                {
+                  "id": "1891655",
+                  "name": "Queijo",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1891654",
+                  "name": "Bacon",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898540",
+                  "name": "Hamburger",
+                  "priceCents": 700,
+                  "available": true
+                },
+                {
+                  "id": "1891657",
+                  "name": "Milho",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891658",
+                  "name": "Ervilha",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891660",
+                  "name": "Ovo",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891661",
+                  "name": "Cheddar",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "3197894",
+                  "name": "Catupiry",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898619",
+                  "name": "Purê de Batata",
+                  "priceCents": 500,
+                  "available": true
+                },
+                {
+                  "id": "1891662",
+                  "name": "Calabresa",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1891659",
+                  "name": "Frango",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898682",
+                  "name": "Batata Palha",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "1891656",
+                  "name": "Salsicha",
+                  "priceCents": 200,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "448392",
+              "name": "Molho Extra?",
+              "min": 0,
+              "max": 15,
+              "options": [
+                {
+                  "id": "9688364",
+                  "name": "Barbecue Artesanal",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "4504854",
+                  "name": "Molho Verde 30g",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "5077181",
+                  "name": "Molho de Alho 30g",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688363",
+                  "name": "Maionese Defumada Artesanal",
+                  "priceCents": 600,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1184425",
+              "name": "Gostaria de Sachês?",
+              "min": 1,
+              "max": 2,
+              "options": [
+                {
+                  "id": "9692426",
+                  "name": "Não Quero Sachês!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692427",
+                  "name": "Quero Todos!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692428",
+                  "name": "Somente Catchup!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692429",
+                  "name": "Somente Maionese!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692430",
+                  "name": "Somente Mostarda!",
+                  "priceCents": 0,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "154305",
+      "name": "Batata Frita",
+      "slug": "batata-frita",
+      "items": [
+        {
+          "id": "1363438",
+          "name": "Batata Frita P 150G",
+          "description": "Batata frita sequinha e crocante",
+          "priceCents": 1200,
+          "image": "/images/products/1363438.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "167557",
+              "name": "Bora Caprichar nessa Porção",
+              "min": 0,
+              "max": 20,
+              "options": [
+                {
+                  "id": "1892232",
+                  "name": "Molho Verde",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "1892233",
+                  "name": "Molho de Alho",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "1892235",
+                  "name": "Bacon",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898545",
+                  "name": "Calabresa",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1892236",
+                  "name": "Queijo",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898553",
+                  "name": "Cheddar",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "3197897",
+                  "name": "Catupiry",
+                  "priceCents": 600,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "448392",
+              "name": "Molho Extra?",
+              "min": 0,
+              "max": 15,
+              "options": [
+                {
+                  "id": "9688364",
+                  "name": "Barbecue Artesanal",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "4504854",
+                  "name": "Molho Verde 30g",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "5077181",
+                  "name": "Molho de Alho 30g",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688363",
+                  "name": "Maionese Defumada Artesanal",
+                  "priceCents": 600,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1184425",
+              "name": "Gostaria de Sachês?",
+              "min": 1,
+              "max": 2,
+              "options": [
+                {
+                  "id": "9692426",
+                  "name": "Não Quero Sachês!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692427",
+                  "name": "Quero Todos!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692428",
+                  "name": "Somente Catchup!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692429",
+                  "name": "Somente Maionese!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692430",
+                  "name": "Somente Mostarda!",
+                  "priceCents": 0,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "917667",
+          "name": "Batata Frita M 250G",
+          "description": "Batata frita sequinha e crocante\n(Peso pode variar depois de frito)",
+          "priceCents": 1600,
+          "image": "/images/products/1363438.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "167557",
+              "name": "Bora Caprichar nessa Porção",
+              "min": 0,
+              "max": 20,
+              "options": [
+                {
+                  "id": "1892232",
+                  "name": "Molho Verde",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "1892233",
+                  "name": "Molho de Alho",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "1892235",
+                  "name": "Bacon",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898545",
+                  "name": "Calabresa",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1892236",
+                  "name": "Queijo",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898553",
+                  "name": "Cheddar",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "3197897",
+                  "name": "Catupiry",
+                  "priceCents": 600,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "448392",
+              "name": "Molho Extra?",
+              "min": 0,
+              "max": 15,
+              "options": [
+                {
+                  "id": "9688364",
+                  "name": "Barbecue Artesanal",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "4504854",
+                  "name": "Molho Verde 30g",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "5077181",
+                  "name": "Molho de Alho 30g",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688363",
+                  "name": "Maionese Defumada Artesanal",
+                  "priceCents": 600,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1184425",
+              "name": "Gostaria de Sachês?",
+              "min": 1,
+              "max": 2,
+              "options": [
+                {
+                  "id": "9692426",
+                  "name": "Não Quero Sachês!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692427",
+                  "name": "Quero Todos!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692428",
+                  "name": "Somente Catchup!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692429",
+                  "name": "Somente Maionese!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692430",
+                  "name": "Somente Mostarda!",
+                  "priceCents": 0,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "917661",
+          "name": "Batata Frita G 500G",
+          "description": "Batata frita sequinha e crocante\n(Peso pode variar depois de frito)",
+          "priceCents": 2800,
+          "image": "/images/products/1363438.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "167557",
+              "name": "Bora Caprichar nessa Porção",
+              "min": 0,
+              "max": 20,
+              "options": [
+                {
+                  "id": "1892232",
+                  "name": "Molho Verde",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "1892233",
+                  "name": "Molho de Alho",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "1892235",
+                  "name": "Bacon",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898545",
+                  "name": "Calabresa",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1892236",
+                  "name": "Queijo",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "1898553",
+                  "name": "Cheddar",
+                  "priceCents": 600,
+                  "available": true
+                },
+                {
+                  "id": "3197897",
+                  "name": "Catupiry",
+                  "priceCents": 600,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "448392",
+              "name": "Molho Extra?",
+              "min": 0,
+              "max": 15,
+              "options": [
+                {
+                  "id": "9688364",
+                  "name": "Barbecue Artesanal",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "4504854",
+                  "name": "Molho Verde 30g",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "5077181",
+                  "name": "Molho de Alho 30g",
+                  "priceCents": 400,
+                  "available": true
+                },
+                {
+                  "id": "9688363",
+                  "name": "Maionese Defumada Artesanal",
+                  "priceCents": 600,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "1184425",
+              "name": "Gostaria de Sachês?",
+              "min": 1,
+              "max": 2,
+              "options": [
+                {
+                  "id": "9692426",
+                  "name": "Não Quero Sachês!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692427",
+                  "name": "Quero Todos!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692428",
+                  "name": "Somente Catchup!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692429",
+                  "name": "Somente Maionese!",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "9692430",
+                  "name": "Somente Mostarda!",
+                  "priceCents": 0,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "296120",
+      "name": "Açaí",
+      "slug": "acai",
+      "items": [
+        {
+          "id": "1780568",
+          "name": "Copo 300 ML",
+          "description": "Açaí cremoso\nVai com 2 complementos a sua escolha",
+          "priceCents": 1200,
+          "image": "/images/products/1780568.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "172107",
+              "name": "Escolha os acompanhamentos",
+              "min": 0,
+              "max": 2,
+              "options": [
+                {
+                  "id": "3221535",
+                  "name": "Calda de Caramelo",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "3221537",
+                  "name": "Calda de Chocolate",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "3221536",
+                  "name": "Calda de Morango",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "1937797",
+                  "name": "Sem Acompanhamentos",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "1937798",
+                  "name": "Banana",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "3189810",
+                  "name": "Granola",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "3189811",
+                  "name": "Leite em Pó",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "3189812",
+                  "name": "Leite Condensado",
+                  "priceCents": 0,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "329113",
+              "name": "Turbine ainda mais seu copo",
+              "min": 0,
+              "max": 5,
+              "options": [
+                {
+                  "id": "3221542",
+                  "name": "Calda de Caramelo",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "3221544",
+                  "name": "Calda de Morango",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "8015111",
+                  "name": "CHOCOBALL",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "8035759",
+                  "name": "Creme de Pistache",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "8015112",
+                  "name": "OVOMALTINE",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "3189881",
+                  "name": "Banana",
+                  "priceCents": 100,
+                  "available": true
+                },
+                {
+                  "id": "3189884",
+                  "name": "Granola",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "3189885",
+                  "name": "Leite em Pó",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "3189886",
+                  "name": "Leite Condensado",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "3189887",
+                  "name": "Creme de Avelã",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "3189888",
+                  "name": "Creme de Leitinho",
+                  "priceCents": 300,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1781182",
+          "name": "Copo 400 ML",
+          "description": "Açaí cremoso\nVai com 2 complementos a sua escolha",
+          "priceCents": 1500,
+          "image": "/images/products/1780568.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "172107",
+              "name": "Escolha os acompanhamentos",
+              "min": 0,
+              "max": 2,
+              "options": [
+                {
+                  "id": "3221535",
+                  "name": "Calda de Caramelo",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "3221537",
+                  "name": "Calda de Chocolate",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "3221536",
+                  "name": "Calda de Morango",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "1937797",
+                  "name": "Sem Acompanhamentos",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "1937798",
+                  "name": "Banana",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "3189810",
+                  "name": "Granola",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "3189811",
+                  "name": "Leite em Pó",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "3189812",
+                  "name": "Leite Condensado",
+                  "priceCents": 0,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "329113",
+              "name": "Turbine ainda mais seu copo",
+              "min": 0,
+              "max": 5,
+              "options": [
+                {
+                  "id": "3221542",
+                  "name": "Calda de Caramelo",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "3221544",
+                  "name": "Calda de Morango",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "8015111",
+                  "name": "CHOCOBALL",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "8035759",
+                  "name": "Creme de Pistache",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "8015112",
+                  "name": "OVOMALTINE",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "3189881",
+                  "name": "Banana",
+                  "priceCents": 100,
+                  "available": true
+                },
+                {
+                  "id": "3189884",
+                  "name": "Granola",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "3189885",
+                  "name": "Leite em Pó",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "3189886",
+                  "name": "Leite Condensado",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "3189887",
+                  "name": "Creme de Avelã",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "3189888",
+                  "name": "Creme de Leitinho",
+                  "priceCents": 300,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1781184",
+          "name": "Copo 500 ML",
+          "description": "Açaí cremoso\nVai com 2 complementos a sua escolha",
+          "priceCents": 1800,
+          "image": "/images/products/1780568.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "172107",
+              "name": "Escolha os acompanhamentos",
+              "min": 0,
+              "max": 2,
+              "options": [
+                {
+                  "id": "3221535",
+                  "name": "Calda de Caramelo",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "3221537",
+                  "name": "Calda de Chocolate",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "3221536",
+                  "name": "Calda de Morango",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "1937797",
+                  "name": "Sem Acompanhamentos",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "1937798",
+                  "name": "Banana",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "3189810",
+                  "name": "Granola",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "3189811",
+                  "name": "Leite em Pó",
+                  "priceCents": 0,
+                  "available": true
+                },
+                {
+                  "id": "3189812",
+                  "name": "Leite Condensado",
+                  "priceCents": 0,
+                  "available": true
+                }
+              ]
+            },
+            {
+              "id": "329113",
+              "name": "Turbine ainda mais seu copo",
+              "min": 0,
+              "max": 5,
+              "options": [
+                {
+                  "id": "3221542",
+                  "name": "Calda de Caramelo",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "3221544",
+                  "name": "Calda de Morango",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "8015111",
+                  "name": "CHOCOBALL",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "8035759",
+                  "name": "Creme de Pistache",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "8015112",
+                  "name": "OVOMALTINE",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "3189881",
+                  "name": "Banana",
+                  "priceCents": 100,
+                  "available": true
+                },
+                {
+                  "id": "3189884",
+                  "name": "Granola",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "3189885",
+                  "name": "Leite em Pó",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "3189886",
+                  "name": "Leite Condensado",
+                  "priceCents": 200,
+                  "available": true
+                },
+                {
+                  "id": "3189887",
+                  "name": "Creme de Avelã",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "3189888",
+                  "name": "Creme de Leitinho",
+                  "priceCents": 300,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "155033",
+      "name": "Sucos",
+      "slug": "sucos",
+      "items": [
+        {
+          "id": "922377",
+          "name": "Suco de Acerola",
+          "description": "Copo ou Garrada de 500 ML",
+          "priceCents": 1200,
+          "image": "/images/products/922377.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "168194",
+              "name": "Quer deixar o suco melhor?",
+              "min": 0,
+              "max": 5,
+              "options": [
+                {
+                  "id": "1899078",
+                  "name": "Com Leite",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "9652529",
+                  "name": "Polpa Extra",
+                  "priceCents": 500,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "922378",
+          "name": "Suco de Abacaxi",
+          "description": "Copo ou Garrada de 500 ML",
+          "priceCents": 1200,
+          "image": "/images/products/922378.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "168194",
+              "name": "Quer deixar o suco melhor?",
+              "min": 0,
+              "max": 5,
+              "options": [
+                {
+                  "id": "1899078",
+                  "name": "Com Leite",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "9652529",
+                  "name": "Polpa Extra",
+                  "priceCents": 500,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "922379",
+          "name": "Suco de Abacaxi C/ Hortelã",
+          "description": "Copo ou Garrada de 500 ML",
+          "priceCents": 1200,
+          "image": "/images/products/922379.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "168194",
+              "name": "Quer deixar o suco melhor?",
+              "min": 0,
+              "max": 5,
+              "options": [
+                {
+                  "id": "1899078",
+                  "name": "Com Leite",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "9652529",
+                  "name": "Polpa Extra",
+                  "priceCents": 500,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "922380",
+          "name": "Suco de Caju",
+          "description": "Copo ou Garrada de 500 ML",
+          "priceCents": 1200,
+          "image": "/images/products/922380.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "168194",
+              "name": "Quer deixar o suco melhor?",
+              "min": 0,
+              "max": 5,
+              "options": [
+                {
+                  "id": "1899078",
+                  "name": "Com Leite",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "9652529",
+                  "name": "Polpa Extra",
+                  "priceCents": 500,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "922381",
+          "name": "Suco de Detox",
+          "description": "Copo ou Garrada de 500 ML",
+          "priceCents": 1200,
+          "image": "/images/products/922381.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "168194",
+              "name": "Quer deixar o suco melhor?",
+              "min": 0,
+              "max": 5,
+              "options": [
+                {
+                  "id": "1899078",
+                  "name": "Com Leite",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "9652529",
+                  "name": "Polpa Extra",
+                  "priceCents": 500,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "922382",
+          "name": "Suco de Manga",
+          "description": "Copo ou Garrada de 500 ML",
+          "priceCents": 1200,
+          "image": "/images/products/922382.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "168194",
+              "name": "Quer deixar o suco melhor?",
+              "min": 0,
+              "max": 5,
+              "options": [
+                {
+                  "id": "1899078",
+                  "name": "Com Leite",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "9652529",
+                  "name": "Polpa Extra",
+                  "priceCents": 500,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "922385",
+          "name": "Suco de Maracujá",
+          "description": "Copo ou Garrada de 500 ML",
+          "priceCents": 1200,
+          "image": "/images/products/922385.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "168194",
+              "name": "Quer deixar o suco melhor?",
+              "min": 0,
+              "max": 5,
+              "options": [
+                {
+                  "id": "1899078",
+                  "name": "Com Leite",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "9652529",
+                  "name": "Polpa Extra",
+                  "priceCents": 500,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "922386",
+          "name": "Suco de Melão",
+          "description": "Copo ou Garrada de 500 ML",
+          "priceCents": 1200,
+          "image": "/images/products/922386.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "168194",
+              "name": "Quer deixar o suco melhor?",
+              "min": 0,
+              "max": 5,
+              "options": [
+                {
+                  "id": "1899078",
+                  "name": "Com Leite",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "9652529",
+                  "name": "Polpa Extra",
+                  "priceCents": 500,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "922389",
+          "name": "Suco de Morango",
+          "description": "Copo ou Garrada de 500 ML",
+          "priceCents": 1200,
+          "image": "/images/products/922389.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": [
+            {
+              "id": "168194",
+              "name": "Quer deixar o suco melhor?",
+              "min": 0,
+              "max": 5,
+              "options": [
+                {
+                  "id": "1899078",
+                  "name": "Com Leite",
+                  "priceCents": 300,
+                  "available": true
+                },
+                {
+                  "id": "9652529",
+                  "name": "Polpa Extra",
+                  "priceCents": 500,
+                  "available": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "154411",
+      "name": "Refrigerantes",
+      "slug": "refrigerantes",
+      "items": [
+        {
+          "id": "922151",
+          "name": "Coca Cola 1 L ZERO",
+          "description": "Refresque-se com a Coca-Cola Zero de 1 litro, uma opção sem açúcares ideal para acompanhar suas refeições no restaurante.",
+          "priceCents": 950,
+          "image": "/images/products/922151.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "922332",
+          "name": "Fanta Laranja 2 L",
+          "description": "Refresque-se com a Fanta Laranja, uma bebida cítrica e deliciosa, perfeita para acompanhar suas refeições no nosso restaurante.",
+          "priceCents": 1500,
+          "image": "/images/products/922332.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "922342",
+          "name": "Fanta Uva 2 L",
+          "description": "Refrescante e saborosa, a Fanta Uva 2L é a bebida perfeita para acompanhar suas refeições no nosso restaurante.",
+          "priceCents": 1500,
+          "image": "/images/products/922342.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "4989268",
+          "name": "Guarana Antarctica 2L",
+          "description": "Refresque seu paladar com o Guarana Antarctica 2L, a bebida perfeita para acompanhar suas refeições no nosso restaurante!",
+          "priceCents": 1500,
+          "image": "/images/products/4989268.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "918241",
+          "name": "Fanta Guaraná Lata",
+          "description": "Refrescante e saborosa Fanta Guaraná gelada em lata, perfeita para acompanhar seus pratos no nosso restaurante.",
+          "priceCents": 650,
+          "image": "/images/products/918241.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "918242",
+          "name": "Sprite Lata",
+          "description": "Refresque seu dia com nossa Sprite gelada, uma bebida cítrica e gaseificada, perfeita para acompanhar suas refeições deliciosas.",
+          "priceCents": 650,
+          "image": "/images/products/918242.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "922262",
+          "name": "Sprite Fresh",
+          "description": "Refrescante e cítrico, Sprite Fresh é a bebida perfeita para acompanhar suas refeições e momentos de descontração.",
+          "priceCents": 600,
+          "image": "/images/products/922262.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "4457286",
+          "name": "Guaraná Antarctica 200 ml",
+          "description": "Refrescante guaraná Antarctica gelado, 200 ml de sabor único e marcante para acompanhar suas refeições no restaurante.",
+          "priceCents": 350,
+          "image": "/images/products/4457286.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "918238",
+          "name": "Fanta Laranja Lata",
+          "description": "Refrescante e cítrico, a Fanta Laranja Lata é a bebida perfeita para acompanhar nossos pratos saborosos.",
+          "priceCents": 650,
+          "image": "/images/products/918238.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "918239",
+          "name": "Fanta Uva Lata",
+          "description": "Refrescante e saborosa Fanta Uva em lata geladinha, para acompanhar suas refeições no restaurante. Aproveite!",
+          "priceCents": 650,
+          "image": "/images/products/918239.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "922338",
+          "name": "Sprite 2 L",
+          "description": "Refrescante e cítrico, o Sprite 2L é a escolha perfeita para acompanhar suas refeições e momentos de descontração.",
+          "priceCents": 1500,
+          "image": "/images/products/922338.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "6243874",
+          "name": "SPRITE 200 ML",
+          "description": "",
+          "priceCents": 350,
+          "image": "/images/products/918242.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "918244",
+          "name": "Coca Cola 600 ML",
+          "description": "Refresque-se com a tradicional e saborosa Coca-Cola gelada, perfeita para acompanhar suas refeições ou curtir a qualquer momento.",
+          "priceCents": 750,
+          "image": "/images/products/918244.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "922232",
+          "name": "Tubaina Funada 2 L",
+          "description": "Refresque-se com nossa Tubaina Funada de 2 litros, perfeita para compartilhar e acompanhar sua refeição!",
+          "priceCents": 1200,
+          "image": "/images/products/922232.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "922142",
+          "name": "Coca Cola 600 ML ZERO",
+          "description": "Refresque-se sem se preocupar com calorias: Coca-Cola Zero, a versão sem açúcar perfeita para acompanhar suas refeições!",
+          "priceCents": 750,
+          "image": "/images/products/922142.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "3173873",
+          "name": "Guarana Antarctica 1L",
+          "description": "Refresque-se com Guarana Antarctica 1L, a bebida brasileira favorita com sabor único e natural, perfeita para acompanhar suas refeições.",
+          "priceCents": 950,
+          "image": "/images/products/3173873.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "920585",
+          "name": "Coca Cola 1 L",
+          "description": "Refresque-se com a clássica Coca-Cola de 1 litro, perfeita para acompanhar suas refeições no nosso restaurante.",
+          "priceCents": 950,
+          "image": "/images/products/920585.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "922136",
+          "name": "Coca Cola 2 L",
+          "description": "Refresque-se com a clássica Coca Cola de 2L, perfeita para acompanhar suas refeições ou momentos de descontração.",
+          "priceCents": 1500,
+          "image": "/images/products/922136.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "922258",
+          "name": "Água",
+          "description": "Água pura e cristalina, a companhia perfeita para seus momentos à mesa.",
+          "priceCents": 300,
+          "image": "/images/products/922258.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "922259",
+          "name": "Água com Gás",
+          "description": "Água borbulhante e refrescante, perfeita para acompanhar suas refeições e momentos especiais. Aproveite essa deliciosa opção!",
+          "priceCents": 350,
+          "image": "/images/products/922259.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "3173889",
+          "name": "Isotonico Powerade",
+          "description": "Revigore-se com o Isotônico Powerade, a escolha certa para repor eletrólitos e garantir mais energia e hidratação.",
+          "priceCents": 600,
+          "image": "/images/products/3173889.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "2567200",
+          "name": "Coca Cola Lata 350ml ZERO",
+          "description": "Refrescante e sem calorias, a Coca-Cola Zero Lata 350ml é a opção perfeita para quem busca uma bebida leve.",
+          "priceCents": 650,
+          "image": "/images/products/2567200.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "5044283",
+          "name": "Coca Cola 200ml",
+          "description": "Refrescante e deliciosa, a Coca-Cola 200ml é a escolha perfeita para acompanhar suas refeições no nosso restaurante.",
+          "priceCents": 350,
+          "image": "/images/products/5044283.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "5044297",
+          "name": "Fanta laranja 200ml",
+          "description": "Refrescante e cítrica, a Fanta Laranja 200ml é a escolha perfeita para acompanhar nossos pratos deliciosos.",
+          "priceCents": 350,
+          "image": "/images/products/5044297.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "918237",
+          "name": "Coca Cola Lata 350ml",
+          "description": "Refrescante e icônica, a Coca-Cola gelada em lata de 350ml é a escolha perfeita para acompanhar sua refeição.",
+          "priceCents": 650,
+          "image": "/images/products/918237.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "6701685",
+          "name": "Fanta Uva 200ml",
+          "description": "Refresque-se com nossa Fanta Uva gelada de 200ml, uma explosão de sabor doce e refrescante em cada gole.",
+          "priceCents": 350,
+          "image": "/images/products/6701685.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "5044305",
+          "name": "Coca Cola Zero 200ml",
+          "description": "Refrescante e sem calorias, a Coca Cola Zero 200ml é a escolha perfeita para quem busca uma bebida leve.",
+          "priceCents": 350,
+          "image": "/images/products/5044305.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "5065956",
+          "name": "Tubaina Funada 350ml",
+          "description": "Refrescante e tradicional, a Tubaina Funada 350ml é a bebida perfeita para acompanhar nossos pratos saborosos e únicos.",
+          "priceCents": 350,
+          "image": "/images/products/5065956.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        }
+      ]
+    },
+    {
+      "id": "155027",
+      "name": "Cervejas",
+      "slug": "cervejas",
+      "items": [
+        {
+          "id": "922302",
+          "name": "Skol Lata 350 ML",
+          "description": "Refresque-se com a Skol Lata geladinha, uma cerveja leve e saborosa para acompanhar suas melhores refeições no restaurante.",
+          "priceCents": 500,
+          "image": "/images/products/922302.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "922303",
+          "name": "Brahma Lata 350 ML",
+          "description": "Refrescante e leve, a Brahma Lata 350ml é a escolha perfeita para acompanhar nossas delícias gastronômicas.",
+          "priceCents": 500,
+          "image": "/images/products/922303.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "1787924",
+          "name": "Antarctica BOA Lata 350ml",
+          "description": "Refresque-se com a Antarctica BOA 350ml, uma cerveja leve e saborosa, perfeita para acompanhar suas refeições no restaurante.",
+          "priceCents": 500,
+          "image": "/images/products/1787924.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "3051133",
+          "name": "Long Neck",
+          "description": "Seleção de cervejas premium e artesanais em Long Neck geladas para acompanhar seus pratos favoritos.",
+          "priceCents": 700,
+          "image": "/images/products/long-neck.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "5425972",
+          "name": "Original Lata 350 ML",
+          "description": "Experimente nossa Original gelada em lata de 350ml, refrescante e perfeita para acompanhar seus pratos preferidos.",
+          "priceCents": 650,
+          "image": "/images/products/5425972.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        }
+      ]
+    },
+    {
+      "id": "159586",
+      "name": "Doces",
+      "slug": "doces",
+      "items": [
+        {
+          "id": "2488582",
+          "name": "Paçoca Caseira",
+          "description": "Deliciosa paçoca caseira feita com amendoim torrado e farinha de mandioca. A doçura perfeita para sua sobremesa!",
+          "priceCents": 350,
+          "image": "/images/products/2488582.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        },
+        {
+          "id": "6707495",
+          "name": "Espetinho de Brownie",
+          "description": "Deliciosos espetinhos de brownie, perfeitos para os amantes de chocolate, uma sobremesa irresistível em cada mordida.",
+          "priceCents": 1500,
+          "image": "/images/products/6707495.webp",
+          "isAlcohol": false,
+          "available": true,
+          "optionGroups": []
+        }
+      ]
+    }
+  ]
+}

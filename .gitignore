@@ -1,0 +1,14 @@
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+.env
+.env.local
+.env.*.local
+.vercel/
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.kilo/
