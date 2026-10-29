@@ -12,3 +12,5 @@ Thumbs.db
 .vscode/
 .idea/
 .kilo/
+.vercel
+.env*
