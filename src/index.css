@@ -143,6 +143,8 @@ img { display: block; max-width: 100%; }
 .footer-note { font-size: 10.5px !important; }
 .installed-note { @apply flex items-center gap-2; color: #f2b632 !important; }
 .footer-bottom { @apply flex items-center justify-between gap-5; margin-top: 46px; min-height: 64px; border-top: 1px solid rgba(255,248,234,.15); color: #a99585; font-size: 9px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
+.footer-credit { color: #7d6a5d; font-size: 8.5px; letter-spacing: .06em; transition: color .2s; }
+.footer-credit:hover { color: #f2b632; }
 
 .modal-overlay { position: fixed; inset: 0; z-index: 100; display: flex; align-items: center; justify-content: center; padding: 22px; background: rgba(24,10,6,.76); }
 .modal-overlay.is-drawer { justify-content: flex-end; padding: 0; }
