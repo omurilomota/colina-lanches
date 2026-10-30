@@ -272,7 +272,7 @@ export default function App() {
           <div><h3>Contato</h3><a href={WHATSAPP} target="_blank" rel="noreferrer"><MessageCircle size={16} /> (18) 0000-0000</a><a href={menu.store.instagram} target="_blank" rel="noreferrer"><Camera size={16} /> @exemplo.demo</a></div>
           <div><h3>Leve o cardápio com você</h3>{!pwa.installed ? <button type="button" className="button button-yellow" onClick={installApp}><Download size={16} /> Instalar app</button> : <p className="installed-note"><Check size={16} /> App instalado</p>}<p className="footer-note">O pedido é confirmado pela equipe no WhatsApp.</p></div>
         </div>
-        <div className="container footer-bottom"><span>COLINA • JUNQUEIRÓPOLIS / SP</span><span>Cardápio de referência • confirme valores e disponibilidade</span></div>
+        <div className="container footer-bottom"><span>COLINA • JUNQUEIRÓPOLIS / SP</span><span>Cardápio de referência • confirme valores e disponibilidade</span><a href="https://wa.me/5518998133524" target="_blank" rel="noreferrer" aria-label="Falar com Murilo Mota no WhatsApp" className="footer-credit">Desenvolvido por Murilo Mota · 55 (18) 99813-3524</a></div>
       </footer>
       <DemoNotice />
 
